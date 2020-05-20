@@ -1,3 +1,3 @@
 # GreenText
 
-+ > hi
++ Green
