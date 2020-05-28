@@ -1,6 +1,6 @@
 # GreenText
 
-##Very cool
+### Very cool
 ```
 >Makes this text green
 ```
