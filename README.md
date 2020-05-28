@@ -1,5 +1,6 @@
 # GreenText
 
-Green
-
-readme
+###Very cool
+```
+>Makes this text green
+```
